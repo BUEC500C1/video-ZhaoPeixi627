@@ -36,9 +36,11 @@ I set the video fps as 0.333 and resize the image to (1960,1024).
 
 
 ## Step of the homework
-### Develop a queue system that can exercise your requirements with stub functions.
-### Develop the twitter functionality with an API
-### Integrate them
+### 1.Develop a queue system that can exercise your requirements with stub functions.
+
+### 2.Develop the twitter functionality with an API
+
+### 3.Integrate them
 
 ## To Run this Program
 After setting up all prerequiste enviornment, just run the sys.py. Then you will get the User + _ + photo file which store the photos which have the twitters' comments on it and a video of that specific user.
