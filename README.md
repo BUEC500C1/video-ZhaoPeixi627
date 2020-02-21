@@ -23,9 +23,17 @@ video-ZhaoPeixi627 created by GitHub Classroom
 
 
 ## Set Up
-*Twitter API: to run the twitter API, users need to import their own API keys.
-*cv2: users need to install the opencv enviornment before they use cv2. Command is : pip install pip install openCV-python.
-*Users need to include the STIXGeneral.ttf in the file to run the program.
+### Twitter API 
+To run the twitter API, users need to import their own API keys.
+### cv2
+Users need to install the opencv enviornment before they use cv2. Command is : pip install pip install openCV-python.
+### Font
+Users need to include the STIXGeneral.ttf in the file to run the program.
+### Images
+I set the images size as (1960,1024) and color(30,144,255). And I set the text to write at the position of (10,200) in the image.
+### Video
+I set the video fps as 0.333 and resize the image to (1960,1024).
+
 
 ## Step of the homework
 ### Develop a queue system that can exercise your requirements with stub functions.
@@ -47,4 +55,21 @@ After setting up all prerequiste enviornment, just run the sys.py. Then you will
 ### The Threading
 
 ![](https://github.com/BUEC500C1/video-ZhaoPeixi627/blob/master/ReadMePhoto/Threading.png)
+
+## Material I learnt for this exercise
+Python Queues
+Python processes and subprocesses
+Python Threads
+Python Threads Versus Processes
+Python asyncio
+FFMPEG
+
+## Homework Question
+1.How many API calls you can handle simultaneously and why?
+I call one API since I just use one API which is Tweepy.
+2.or example, run different API calls at the same time?
+Yes, I can calls several APIs at the same time.
+3.Split the processing of an API into multiple threads?
+I split the process to 5 threads.
+
 
