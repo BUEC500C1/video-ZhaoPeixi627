@@ -59,12 +59,12 @@ After setting up all prerequiste enviornment, just run the sys.py. Then you will
 ![](https://github.com/BUEC500C1/video-ZhaoPeixi627/blob/master/ReadMePhoto/Threading.png)
 
 ## Material I learnt for this exercise
-1.Python Queues
-2.Python processes and subprocesses
-3.Python Threads
-4.Python Threads Versus Processes
-5.Python asyncio
-6.FFMPEG
+1. Python Queues
+2. Python processes and subprocesses
+3. Python Threads
+4. Python Threads Versus Processes
+5. Python asyncio
+6. FFMPEG
 
 ## Homework Question
 1.How many API calls you can handle simultaneously and why?
