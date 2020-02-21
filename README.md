@@ -10,6 +10,7 @@ video-ZhaoPeixi627 created by GitHub Classroom
 4. OPEN CV(cv2): To create a video based on different photos.
 
 5. Queue Threading: To create a queue to allocate each thread.
+[]!=https://github.com/BUEC500C1/video-ZhaoPeixi627/blob/master/ReadMePhoto/Queue.png 
 
 ## Set up
 **Twitter API: to run the twitter API, users need to import their own API keys.
