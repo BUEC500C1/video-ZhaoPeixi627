@@ -67,11 +67,11 @@ After setting up all prerequiste enviornment, just run the sys.py. Then you will
 6. FFMPEG
 
 ## Homework Question
-1.How many API calls you can handle simultaneously and why?
+1. How many API calls you can handle simultaneously and why?
 I call one API since I just use one API which is Tweepy.
-2.or example, run different API calls at the same time?
+2. or example, run different API calls at the same time?
 Yes, I can calls several APIs at the same time.
-3.Split the processing of an API into multiple threads?
+3. Split the processing of an API into multiple threads?
 I split the process to 5 threads.
 
 
