@@ -25,7 +25,7 @@ def get_tweet(User):
         #initialize a list to hold all the tweepy Tweets
         alltweets = [] 
 
-        # os.mkdir(User+'_'+'Photo')   ### need to uncomment this before locally testing
+        # os.mkdir(User+'_'+'Photo')   ### !!!!!!!!!!!!!!! Need to uncomment this before locally testing !!!!!!!!!!!!!!
 
         #make initial request for most recent tweets (200 is the maximum allowed count)
         try:
